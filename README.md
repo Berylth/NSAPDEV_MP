@@ -1,4 +1,4 @@
-# NSAPDEV_MP
+# NSAPDEV_MP: Toll Server and Client Application
 NSAPDEV Machine Project: Client-server toll application written in Python, designed to simulate a network of toll booths and their interactions on a highway system. The server manages multiple toll booths, processes entry and exit transactions, and keeps track of the toll fees and vehicle movements. The client represents a toll booth and handles the vehicle entry, exit, and communication with the server.
 
 ## Pre-requisites
